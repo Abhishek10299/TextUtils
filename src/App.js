@@ -42,8 +42,6 @@ function App() {
         <Alert alert={alert} />
         <div className="container my-3">
           <Routes>
-            {/* /user -->component 1
-            /user/home --> component 2 */}
             <Route
               exact
               path="/"
